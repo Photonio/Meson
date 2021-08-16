@@ -15,6 +15,7 @@ https://www.youtube.com/results?search_query=convert+final+cut+pro+to+premiere
 
 
 # List:
+- [TUTORIAL Convert Final Cut Pro X Project to Premiere CC 2019 (FREE)](https://youtu.be/XUbCinsh3E4)
 - https://larryjordan.com/articles/move-projects-between-final-cut-pro-x-and-adobe-premiere-pro-cc/
 - https://larryjordan.com/articles/premiere-pro-cc-transfer-projects-to-final-cut-pro-x/
 - https://videoconverter.wondershare.com/adobe-premiere/fcpx-to-premiere.html
